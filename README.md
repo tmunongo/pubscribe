@@ -1,1 +1,3 @@
-A simple static site generator built with Rust
+# what
+
+a static site generator for no-fuss writers. in rust
